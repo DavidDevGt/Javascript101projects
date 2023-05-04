@@ -1,10 +1,8 @@
 # Mi Portafolio de Proyectos de Javascript
 
-Este es mi portafolio de proyectos de JavaScript, aquí podrás encontrar algunos de mis proyectos más destacados.
+Este es mi portafolio de proyectos de JavaScript, aquí podrás encontrar algunos de mis proyectos.
 
-## Proyectos Destacados
-
-Aquí están algunos de mis proyectos más destacados:
+## Proyectos
 
 - Selector de Color RGB - https://codepen.io/deibid64bits/pen/PoyWGgQ
 - Calculadora minimalista - https://codepen.io/deibid64bits/pen/LYgxbWL
